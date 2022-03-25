@@ -1,0 +1,12 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">     <img src=\"https://media.discordapp.net/attachments/938510935625191445/952735540355158016/file.jpg\" /> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
